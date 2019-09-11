@@ -1,4 +1,4 @@
-A top down battle royale made with the python pygame library.
+A top down two player football game
 
 Background images
 https://opengameart.org/content/backgrounds-topdown-games
